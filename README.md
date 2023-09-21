@@ -24,10 +24,9 @@ Here are some of the projects I've worked on:
 
 1. Javascript portfolio Landing page design [(Project GitHub URL)](https://github.com/AminnaKhalid/Landingpage).
 
-2. **[Project Name](Project GitHub URL)** - A brief description of the project, its technologies, and your role.
+2.Personal portfolio [(Project GitHub URL)]((https://github.com/AminnaKhalid/Personal_portfolio)). - 
 
-3. **[Project Name](Project GitHub URL)** - A brief description of the project, its technologies, and your role.
-
+3.Luminuos Text[(Project GitHub URL)*](https://github.com/AminnaKhalid/Luminous_text)* -
 Feel free to explore my GitHub repositories for more projects and code samples.
 
 ## 📫 Contact Me
